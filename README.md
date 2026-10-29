@@ -1,22 +1,22 @@
-👋 Hey, I'm eyopanz!
+👋 Hey, I'm Eyopanz!
+
+💻 Web Developer | Laravel Enthusiast | Tech Explorer
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Web_Developer-Laravel_Enthusiast-6366F1?style=for-the-badge&logo=laravel&logoColor=white" alt="Web Developer" />
-  <img src="https://img.shields.io/badge/Always-Learning-22C55E?style=for-the-badge" alt="Always Learning" />
-</p>Web Developer in Progress | Tech Enthusiast | Lifelong Learner
+  <img src="https://img.shields.io/badge/Developer-Web%20Development-6366F1?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Web Developer" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-22C55E?style=for-the-badge" alt="Always Learning" />
+</p>Welcome to my GitHub profile! I'm passionate about technology, web development, and creating useful digital applications. I enjoy exploring new tools, solving problems, and improving my skills through hands-on projects.
 
-Welcome to my GitHub profile! I'm passionate about technology, web development, and building useful digital applications. I enjoy exploring different tools, learning new programming concepts, and improving my skills through practical projects.
-
-- 💻 Interested in web and application development.
-- ⚙️ Exploring PHP, Laravel, and modern web technologies.
-- 🗄️ Learning database management with SQL and MySQL.
-- 🌐 Exploring web hosting and deployment platforms.
-- 🚀 Building projects to improve my development skills.
-- 🎯 Focused on continuous learning and practical problem-solving.
+- 🌐 Interested in web development and application development.
+- ⚙️ Exploring PHP, Laravel, and database-driven applications.
+- 🗄️ Practicing SQL and database management.
+- ☁️ Exploring website hosting and deployment.
+- 🚀 Learning by building real-world projects.
+- 🎯 Always improving my programming skills.
 
 ---
 
-🧑‍💻 Tech Stack & Technologies
+🛠️ Tech Stack
 
 💻 Programming Languages & Web Technologies
 
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about technology, web development, 
 </p>⚙️ Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,flutter,bootstrap,tailwind" alt="Laravel Flutter Bootstrap Tailwind" />
+  <img src="https://skillicons.dev/icons?i=laravel,flutter,bootstrap,tailwind" alt="Laravel Flutter Bootstrap Tailwind CSS" />
 </p>🗄️ Databases & Backend Services
 
 <p align="left">
@@ -47,13 +47,16 @@ Welcome to my GitHub profile! I'm passionate about technology, web development, 
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   </a>
   <a href="https://www.infinityfree.com/">
-    <img src="https://img.shields.io/badge/InfinityFree-Free_Web_Hosting-4285F4?style=for-the-badge" alt="InfinityFree" />
+    <img src="https://img.shields.io/badge/InfinityFree-Free%20Web%20Hosting-4285F4?style=for-the-badge" alt="InfinityFree" />
+  </a>
+  <a href="https://flutlab.io/">
+    <img src="https://img.shields.io/badge/FlutLab-Flutter%20IDE-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutLab" />
   </a>
 </p>---
 
-📚 Knowledge & Learning Areas
+📚 Knowledge & Skills
 
-Category| Technologies & Topics
+Category| Technologies
 Frontend Development| HTML, CSS, JavaScript
 Backend Development| PHP, Laravel
 Programming| Python
@@ -63,7 +66,7 @@ Backend Services| Firebase
 Local Development| XAMPP, VS Code
 Version Control| Git, GitHub
 Hosting & Deployment| Netlify, InfinityFree
-Application Development| CRUD, debugging, database integration
+Development Practices| CRUD, debugging, database integration
 
 ---
 
@@ -73,15 +76,7 @@ Application Development| CRUD, debugging, database integration
 
 A web-based library management application developed for a school competency project (UKK).
 
-Project objectives
-
-- Digitize library management workflows.
-- Simplify book and category management.
-- Organize borrowing and returning transactions.
-- Integrate application features with a database.
-- Improve the user interface and notification experience.
-
-Main features
+Project features
 
 - 📖 Book management
 - 🏷️ Category management
@@ -93,9 +88,11 @@ Main features
 
 Core technologies: PHP · Laravel · MySQL
 
-"🔗 Explore my GitHub repositories" (https://github.com/eyopanz?tab=repositories)
-
----
+<p align="left">
+  <a href="https://github.com/eyopanz?tab=repositories">
+    <img src="https://img.shields.io/badge/View-My_Repositories-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+  </a>
+</p>---
 
 📊 GitHub Statistics
 
@@ -103,25 +100,25 @@ Core technologies: PHP · Laravel · MySQL
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eyopanz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyopanz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=eyopanz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=eyopanz&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>---
 
 🎯 Current Goals
 
 - Strengthen PHP and Laravel fundamentals.
 - Improve database design and SQL queries.
-- Build responsive and user-friendly interfaces.
-- Explore application deployment and hosting.
+- Build responsive and user-friendly web interfaces.
+- Explore website deployment and hosting.
 - Learn better coding practices and application security.
-- Develop more useful personal projects.
+- Develop more useful projects and contribute to GitHub.
 
 ---
 
 🌱 My Development Philosophy
 
-«"Great developers never stop learning. Every project is an opportunity to improve."»
+«"Build with purpose. Learn continuously. Improve every day."»
 
-I believe consistent practice, curiosity, and problem-solving are essential to becoming a better developer. My goal is to keep learning, experimenting, and creating projects that provide real value.
+I believe that every project is an opportunity to learn, experiment, solve problems, and become a better developer.
 
 ---
 
@@ -134,7 +131,7 @@ I believe consistent practice, curiosity, and problem-solving are essential to b
 </p>---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=120&section=footer" alt="Profile footer" />
 </p><p align="center">
-  <i>Build with purpose. Learn continuously. Improve every day.</i>
+  <i>Thanks for visiting my profile! 🚀</i>
 </p>
