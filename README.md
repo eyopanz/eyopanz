@@ -93,17 +93,17 @@ Main features
 
 Core technologies: PHP · Laravel · MySQL
 
-"🔗 Explore my GitHub repositories" (https://github.com/panpantrix?tab=repositories)
+"🔗 Explore my GitHub repositories" (https://github.com/eyopanz?tab=repositories)
 
 ---
 
 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=panpantrix&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panpantrix&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eyopanz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyopanz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=panpantrix&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=eyopanz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>---
 
 🎯 Current Goals
