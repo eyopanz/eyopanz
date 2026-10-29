@@ -1,69 +1,140 @@
-👋 Hey, I'm Panpantrix!
+👋 Hey, I'm eyopanz!
 
-💻 Student | Web Developer | Laravel Enthusiast
+<p align="left">
+  <img src="https://img.shields.io/badge/Web_Developer-Laravel_Enthusiast-6366F1?style=for-the-badge&logo=laravel&logoColor=white" alt="Web Developer" />
+  <img src="https://img.shields.io/badge/Always-Learning-22C55E?style=for-the-badge" alt="Always Learning" />
+</p>Web Developer in Progress | Tech Enthusiast | Lifelong Learner
 
-I'm a student passionate about web development, learning new technologies, and building useful applications. I enjoy turning ideas into real projects and continuously improving my coding skills.
+Welcome to my GitHub profile! I'm passionate about technology, web development, and building useful digital applications. I enjoy exploring different tools, learning new programming concepts, and improving my skills through practical projects.
 
-- 🔭 Currently working on Perpustakaan Digital
-- 🌱 Learning Laravel, PHP, MySQL, and modern web development
-- 🎯 Goal: Become a better developer by building real-world projects
-- 📚 Interested in web applications, databases, and UI development
-- ⚡ Motto: Learn, Build, Improve, Repeat.
+- 💻 Interested in web and application development.
+- ⚙️ Exploring PHP, Laravel, and modern web technologies.
+- 🗄️ Learning database management with SQL and MySQL.
+- 🌐 Exploring web hosting and deployment platforms.
+- 🚀 Building projects to improve my development skills.
+- 🎯 Focused on continuous learning and practical problem-solving.
 
 ---
 
-🛠️ Tech Stack
+🧑‍💻 Tech Stack & Technologies
 
-Languages & Frontend
+💻 Programming Languages & Web Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript" />
-</p>Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python" alt="HTML CSS JavaScript PHP Python" />
+</p>⚙️ Frameworks & Libraries
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="PHP Laravel MySQL" />
-</p>Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=laravel,flutter,bootstrap,tailwind" alt="Laravel Flutter Bootstrap Tailwind" />
+</p>🗄️ Databases & Backend Services
 
-<p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" alt="MySQL Firebase" />
+  <a href="https://www.phpmyadmin.net/">
+    <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+  </a>
+</p>🔧 Development Tools & Version Control
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code" />
+  <a href="https://www.apachefriends.org/">
+    <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
+  </a>
+</p>☁️ Hosting & Deployment Platforms
+
+<p align="left">
+  <a href="https://www.netlify.com/">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  </a>
+  <a href="https://www.infinityfree.com/">
+    <img src="https://img.shields.io/badge/InfinityFree-Free_Web_Hosting-4285F4?style=for-the-badge" alt="InfinityFree" />
+  </a>
 </p>---
+
+📚 Knowledge & Learning Areas
+
+Category| Technologies & Topics
+Frontend Development| HTML, CSS, JavaScript
+Backend Development| PHP, Laravel
+Programming| Python
+Mobile Development| Flutter, Dart
+Database Management| MySQL, SQL, phpMyAdmin
+Backend Services| Firebase
+Local Development| XAMPP, VS Code
+Version Control| Git, GitHub
+Hosting & Deployment| Netlify, InfinityFree
+Application Development| CRUD, debugging, database integration
+
+---
 
 🚀 Featured Project
 
 📚 Perpustakaan Digital
 
-A web-based library management application developed as a school project.
+A web-based library management application developed for a school competency project (UKK).
 
-Features and technologies:
+Project objectives
 
-- 📖 Book and category management
+- Digitize library management workflows.
+- Simplify book and category management.
+- Organize borrowing and returning transactions.
+- Integrate application features with a database.
+- Improve the user interface and notification experience.
+
+Main features
+
+- 📖 Book management
+- 🏷️ Category management
 - 🔄 Borrowing and returning transactions
-- 🗄️ SQL database integration
-- 🎨 Modern and responsive web interface
-- ⚙️ Laravel and PHP
+- 👥 User and role management
+- 🗄️ Database integration
+- 🔔 Notification functionality
+- 🎨 Modern user interface
 
-🔗 Repository: "Perpustakaan Digital" (https://github.com/panpantrix/perpustakaan-digital-klddp)
+Core technologies: PHP · Laravel · MySQL
+
+"🔗 Explore my GitHub repositories" (https://github.com/panpantrix?tab=repositories)
 
 ---
 
 📊 GitHub Statistics
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=panpantrix&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p><p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panpantrix&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p><p>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=panpantrix&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panpantrix&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p><p align="center">
   <img src="https://streak-stats.demolab.com?user=panpantrix&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>---
 
+🎯 Current Goals
+
+- Strengthen PHP and Laravel fundamentals.
+- Improve database design and SQL queries.
+- Build responsive and user-friendly interfaces.
+- Explore application deployment and hosting.
+- Learn better coding practices and application security.
+- Develop more useful personal projects.
+
+---
+
+🌱 My Development Philosophy
+
+«"Great developers never stop learning. Every project is an opportunity to improve."»
+
+I believe consistent practice, curiosity, and problem-solving are essential to becoming a better developer. My goal is to keep learning, experimenting, and creating projects that provide real value.
+
+---
+
 🌐 Connect With Me
 
-<p>
+<p align="left">
   <a href="https://github.com/panpantrix">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-panpantrix-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </p>---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my coding journey.
-
-“Consistency beats perfection. Keep building.” 🚀
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer banner" />
+</p><p align="center">
+  <i>Build with purpose. Learn continuously. Improve every day.</i>
+</p>
