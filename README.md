@@ -128,8 +128,8 @@ I believe consistent practice, curiosity, and problem-solving are essential to b
 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/eyoppanz">
-    <img src="https://img.shields.io/badge/GitHub-panpantrix-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  <a href="https://github.com/eyopanz">
+    <img src="https://img.shields.io/badge/GitHub-eyopanz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </p>---
 
