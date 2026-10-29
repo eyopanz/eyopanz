@@ -97,11 +97,12 @@ Core technologies: PHP · Laravel · MySQL
 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eyopanz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyopanz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eyopanz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=eyopanz&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>---
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyopanz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p><p align="center">
+  <img src="https://streak-stats.demolab.com?user=eyopanz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 🎯 Current Goals
 
